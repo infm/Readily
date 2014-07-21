@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- I added a new comment line for the English update -->
+    
+    <!-- Basic -->
+    <string name="app_name">Readily</string>
+    <string name="title_activity_main">Readily</string>
+    <string name="title_activity_receiver">Tambah ke Readily</string>
+    <string name="title_activity_settings">Pengaturan</string>
+
+    <!-- UI -->
+    <string name="current_word">Sample</string>
+    <string name="next_words">kata-kata berikutnya</string>
+    <!--string name="top_pointer_description">points to emphasize from top</string-->
+    <string name="top_pointer_description">poin untuk menekankan dari atas</string>
+    <!--string name="bottom_pointer_description">points to emphasize from bottom</string-->
+    <string name="bottom_pointer_description">poin untuk menekankan dari bawah</string>
+    <string name="clipboard_button">Baca teks dari papan klip</string>
+    <string name="clipboard_empty">Papan klip kosong</string>
+    <string name="continue_reading">Lanjut</string>
+    <string name="list_empty_view">Hey, ambil suatu bacaan!</string>
+    <string name="file_manager_required">Silakan instal aplikasi pengatur berkas</string>
+    <string name="wrong_ext">Ekstensi salah</string>
+    <string name="text_null">Teks hilang</string>
+    <string name="cant_fetch">Pengambilan teks bermasalah</string>
+    <string name="delete">Hapus</string>
+    <string name="edit_header">Ubah header</string>
+    <string name="choose_file">Pilih file</string>
+    <string name="tap_to_start">Ketuk untuk mulai</string>
+    <string name="confirmation_dialog_title">Apa anda yakin?</string>
+    <string name="gonna_delete">Anda akan menghapus item ini. Tindakan ini tidak dapat dibatalkan!</string>
+    <string name="editor_dialog_title">Ubah bacaan</string>
+    <string name="editor_dialog_header_hint">Judul bacaan (mis. "The Shining")</string>
+    <string name="editor_dialog_position_hint">Posisi dalam teks</string>
+    <string name="about">Info umum</string>
+    <string name="title">Judul</string>
+    <string name="path">Lokasi file</string>
+    <string name="position">Posisi teks</string>
+    <string name="sth_left">kiri</string>
+    <string name="pause">Jeda</string>
+    <string name="reading_is_completed">Ketuk untuk keluar</string>
+    <string name="speed">Kecepatan: </string>
+    <string name="words_read">Kata-kata terbaca: </string>
+
+    <!-- Preferences.xml -->
+    <string name="preferences_clipboard">Baca teks dari papan klip</string>
+    <string name="preferences_pick_file">Baca teks dari file</string>
+    <string name="preferences_pick_file_summary">Pilih file .txt, .epub atau .fb2 untuk dibaca</string>
+    <string name="preferences_test">Uji pengaturan anda</string>
+    <string name="preferences_basic_settings">Pengaturan dasar</string>
+    <string name="preferences_set_wpm">Atur kecepatan</string>
+    <string name="preferences_set_wpm_summary">Kata-kata per menit</string>
+    <string name="preferences_punctuation_settings">Kecepatan pada tanda baca</string>
+    <string name="preferences_different_speed_punctuation">Ubah kecepatan pada tanda baca</string>
+    <string name="preferences_different_speed_punctuation_summary">mis. saat bertemu koma atau titik dua</string>
+    <string name="preferences_comaOrLong_coeff">Koma/kata panjang</string>
+    <string name="preferences_endOfSentence_coeff">Akhir kalimat</string>
+    <string name="preferences_dashOrColon_coeff">Garis atau titik(koma)</string>
+    <string name="preferences_begOfPar_coeff">Awalan paragraf</string>
+    <!--string name="preferences_again">Store finished readings</string-->
+    <string name="preferences_again">Simpan bacaan yang selesai</string>
+    <!--string name="preferences_again_summary">Do not delete readings when finished</string-->
+    <string name="preferences_again_summary">Jangan hapus bacaan ketika selesai</string>
+    <string name="preferences_advanced">Pengaturan lanjut</string>
+    <string name="preferences_showContext">Tampilkan konteks</string>
+    <string name="preferences_showContext_summary">Kata-kata berikutnya dalam kalimat</string>
+    <string name="preferences_instrucions">Petunjuk</string>
+    <string name="preferences_swipe">Usap untuk menggulir</string>
+    <string name="preferences_swipe_summary">ke kiri untuk kata selanjutnya, ke kanan untuk sebelumnya</string>
+    <string name="preferences_share_feedback">Tanggapan</string>
+    <string name="preferences_send_feedback">Kirim tanggapan</string>
+    <string name="preferences_send_feedback_summary">Beritahu idemu :)</string>
+    <string name="preference_cache">Simpan bacaan</string>
+    <string name="preference_cache_summary">Menyimpan bacaan yang belum selesai</string>
+    <string name="mail_to_me">mailto:syniuhin@gmail.com</string>
+    <string name="sample_text">Inside the flat a fruity voice was reading out a list of figures which had something to
+        do with the production of pig iron.
+        The voice came from an oblong metal plaque like a dulled mirror which formed part of the surface of the
+        right-hand wall.
+        Winston turned a switch and the voice sank somewhat, though the words were still distinguishable.
+        The instrument (the telescreen, it was called) could be dimmed) but there was no way of shutting it off
+        completely.
+        He moved over to the window: a smallish, frail figure,
+        the meagerness of his body merely emphasized by the blue overalls which were the uniform of the Party.
+        His hair was very fair, his face naturally sanguine,
+        his skin roughened by coarse soap and blunt razor blades and the cold of the winter that had just ended.</string>
+
+    <!-- Instructions -->
+    <string name="instructions_welcome">Selamat datang!</string>
+    <string name="instructions_first_paragraph">Readily adalah aplikasi Android membaca cepat didukung oleh teknologi
+    	RSVP(Rapid Serial Visual Presentation) technology.
+    	Hal ini memungkinkan anda untuk membaca lebih dari 1200 kata per menit, daripada 220 ketika membaca secara
+    	normal.</string>
+    <!--string name="instructions_source_text">Text sources</string-->
+    <string name="instructions_source_text">Sumber teks</string>
+    <string name="instructions_second_paragraph">Untuk memulai membaca, anda bisa menyalin suatu teks pada papan klip
+    	dan pilih opsi \"Baca teks dari papan klip\".</string>
+    <string name="instructions_third_paragraph">Anda juga bisa memilih opsi \"Baca teks dari file\" dan pilih suatu file
+        (berekstensi .txt, .epub atau .fb2) dari sistem file.</string>
+    <!--string name="instructions_fourth_paragraph">And you can share data to Readily from your favorite reading app (e.g.
+        Flipboard, Instapaper).</string-->
+    <string name="instructions_fourth_paragraph">Dan anda bisa membagi data pada Readily dari aplikasi pembaca favorit
+    	anda (e.g. Flipboard, Instapaper).</string>
+    <string name="instructions_controls_header">Kontrol</string>
+    <!--string name="instructions_fifth_paragraph">To pause or play the reader, just tap on its window. Depending on your
+        preferences, you will be able to swipe between contents or use the simple button to access previous word in a text.\n
+        If you feel that the reading goes too slow or fast, you can change the speed on-the-go:
+	just swipe up or down to change the speed by 50 words per minute.</string-->
+    <string name="instructions_fifth_paragraph">Untuk menjeda atau memulai bacaan, cukup ketuk pada jendelanya.
+    	Tergantung pada pengaturan anda, Anda dapat mengusap antar konten atau gunakan tombol sederhana untuk mengakses
+    	kata sebelumnya dalam teks.\n
+        Jika anda merasa bahwa bacaan berjalan terlalu lambat atau cepat, anda dapat mengubah kecepatan secara on-the-go:
+	usap kearah atau atau bawah untuk mengganti kecepatan per 50 kata per menit.</string>
+    <string name="instructions_emphasis_point">Titik penekanan: ketika Anda berkonsentrasi pada itu,
+        membaca menjadi lebih cepat.</string>
+    <string name="instructions_notification">Notifikasi: ini hanya akan muncul ketika anda perlu diberitahu
+        (mis. ketika Anda mengubah kecepatan membaca).</string>
+    <string name="instructions_previous_word_button">Previous word button(optional): alternatif dari usapan ke kiri dan
+        kanan, dirancang untuk navigasi pada bacaan. Ini akan muncul pada keadaan jeda.</string>
+    <!--string name="instructions_progress_bar">Progress bar: shows your reading progress through a text.</string-->
+    <string name="instructions_progress_bar">Baris kemajuan: menunjukkan perkembangan membaca Anda pada suatu teks.</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="enjoyit">Nikmatilah ;)</string>
+
+</resources>
